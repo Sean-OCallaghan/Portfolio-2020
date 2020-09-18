@@ -222,7 +222,6 @@ body {
   font-family: Arial;
   margin-left: 15px;
   width: 250px;
-  overflow-wrap: anywhere;
 }
 
 .table{
@@ -311,6 +310,8 @@ body {
 .mainJumbo{
   height:900px;
 }
+
+
 .display-4 {
 	-webkit-animation: scale-in-center 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.5s both;
           animation: scale-in-center 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.5s both;
