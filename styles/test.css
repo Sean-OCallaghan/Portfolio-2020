@@ -478,10 +478,15 @@ color:white;
 }
 
 
-.arrow-down { transition:  .2s ease-in-out; }
-.arrow-down:hover { transform: scale(1.5); }
+.fas { 
+  margin-right: 15px;
+  transition:  .2s ease-in-out; }
+.fas:hover { transform: scale(1.5); }
 
-
+.fab { 
+  margin-right: 15px;
+  transition:  .2s ease-in-out; }
+.fab:hover { transform: scale(1.5); }
 
 
 #main-menu .nav-bar { list-style:none; }
@@ -902,7 +907,7 @@ img {
 }
 }
 .mainJumbo{
-  height:950px;
+  height:1000px;
   width:100%;
 }
 .display-4{
